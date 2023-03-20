@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\BaiTest\BaiTest\bin\Debug\net6.0\BaiTest.exe
+C:\Users\Admin\Desktop\BaiTest\BaiTest\bin\Debug\net6.0\BaiTest.deps.json
+C:\Users\Admin\Desktop\BaiTest\BaiTest\bin\Debug\net6.0\BaiTest.runtimeconfig.json
+C:\Users\Admin\Desktop\BaiTest\BaiTest\bin\Debug\net6.0\BaiTest.dll
+C:\Users\Admin\Desktop\BaiTest\BaiTest\bin\Debug\net6.0\BaiTest.pdb
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.AssemblyInfo.cs
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.dll
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\refint\BaiTest.dll
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.pdb
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\BaiTest.genruntimeconfig.cache
+C:\Users\Admin\Desktop\BaiTest\BaiTest\obj\Debug\net6.0\ref\BaiTest.dll
